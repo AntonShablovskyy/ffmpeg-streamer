@@ -1,5 +1,7 @@
 # ffmpeg-streamer
 
+ffmpeg-streamer converts input MP4 file to HLS files and expose it via HTTP.
+
 ## Dependencies
 [ffmpeg executable](https://www.ffmpeg.org/download.html) must be installed on host machine.
 
